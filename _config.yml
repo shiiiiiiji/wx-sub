@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   有关前端技术，有关互联网（及医疗），有关点点产品运营，有关有关。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: zdxit
 github_username:  zelda
 
 # Build settings

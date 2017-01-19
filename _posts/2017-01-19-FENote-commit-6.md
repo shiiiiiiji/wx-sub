@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Redux实践”
+title:  "Redux实践"
 date:   2017-01-19 20:28:23 +0800
 categories:  笔记
 ---

@@ -6,6 +6,7 @@ categories: "sub"
 ---
 
 - **2017年**
+    - 02月10日：[科研时间 | 为临床科研而进行电子病历数据的语义处理](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136373&idx=1&sn=1969734ffee53cad141938345ef9703d&chksm=f29350dac5e4d9ccef6746a28517c4146a43a5fa2fc04c2e24c314f865a591a3437d9c913d58#rd)
 	- 02月07日：[先定一个小目标，比如。。。](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136363&idx=1&sn=cb4880f96dd6ebb9a91cff81ac89e5db&chksm=f29350c4c5e4d9d2e09620618c13d14cb7433947f0392aa625eac5e45547b239b426db4a69df#rd)
 	- 01月27日：[大侠拜年之「如何自动抢红包」](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136357&idx=1&sn=0ec2924958031ab82803b034ee68a714&chksm=f29350cac5e4d9dcd3629431a82893b4b5aeb2b29631983acd70df57121c7a9ea9ed540f5545#rd)
 	- 01月24日：[一个字，总结你的2016](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136350&idx=1&sn=449cd46472d51676365029e472e55ea9&chksm=f29350f1c5e4d9e7e3e2f26ce69355e0e169034445700b10623db50497559b5e143efc365339#rd)

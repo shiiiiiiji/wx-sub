@@ -6,6 +6,9 @@ categories: "sub"
 ---
 
 - **2017年**
+    - 02月18日：[参与“前端早读汇”有感](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136389&idx=1&sn=15bfc1dbc07a29873276bb2557529556&chksm=f29350aac5e4d9bc93c2e667af7fe9ff1315ab5b97fb1197956126bace236f08962b5754542b#rd)
+    - 02月16日：[趣说“码”这回事儿——续集](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136384&idx=1&sn=b2cb247474f23b23059aab532e3fb355&chksm=f29350afc5e4d9b9d27a9fdc18297514329793da62a0aabdb6b04ed288c095603d796a78c0e2#rd)
+    - 02月14日：[历史列表](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136383&idx=1&sn=87523348749254b5ebe28765b81e86e6&chksm=f29350d0c5e4d9c603581ad48a9174d07b0f78755687a59ab28ccadd2bf376d60c7e9a04ef83#rd)
     - 02月13日：[TeamViewer - 跨设备远程操作利器](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136380&idx=1&sn=23af80759737e554d031c2b518720237&chksm=f29350d3c5e4d9c5898b0a7e99eb8d2801041edd9d3f2a7d79934a19c5a7ef476a671f47bf5c#rd)
     - 02月10日：[科研时间-为临床科研而进行电子病历数据的语义处理](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136373&idx=1&sn=1969734ffee53cad141938345ef9703d&chksm=f29350dac5e4d9ccef6746a28517c4146a43a5fa2fc04c2e24c314f865a591a3437d9c913d58#rd)
     - 02月08日：[PPT替代解决方案——声享](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136368&idx=1&sn=ee3111ae776cfcf2f8295785e4899e4a&chksm=f29350dfc5e4d9c902df5d3881d087b92fc369451c732312845aa1e4a4129d3a6cab4fafc424#rd)

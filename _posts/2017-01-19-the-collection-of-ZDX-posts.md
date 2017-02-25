@@ -5,7 +5,11 @@ date:   2017-01-19 20:28:23 +0800
 categories: "sub"
 ---
 
+> 注意：此文档每周一更新
+
 - **2017年**
+	- 02月25日：[初入职场的我如何写周报？](https://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136409&idx=1&sn=fe8b526058652018753b9218c0b91b3a&chksm=f29350b6c5e4d9a06fbf0c9971cd05d8fa8e0db7ef1520637c6562d69930293fd8cb688ad655#rd)
+	- 02月24日：[手把手教你开发微信小程序——搭建开发环境](https://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136400&idx=1&sn=b5a52079976ab5647a2b40422eddae98&chksm=f29350bfc5e4d9a9155dd6a13abe0b9402a98e6dd7fb87a848f77894f60144cdb266fa73c056#rd)
     - 02月23日：[手把手教你开发微信小程序——准备篇](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136398&idx=1&sn=0ac955082a9c3a16f6905d417751f27b&chksm=f29350a1c5e4d9b7b85b45ca21a307a33016262375bb963a5d6f4d0069d01eff6cc2b6acbe76#rd)
     - 02月18日：[参与“前端早读汇”有感](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136389&idx=1&sn=15bfc1dbc07a29873276bb2557529556&chksm=f29350aac5e4d9bc93c2e667af7fe9ff1315ab5b97fb1197956126bace236f08962b5754542b#rd)
     - 02月16日：[趣说“码”这回事儿——续集](http://mp.weixin.qq.com/s?__biz=MzI0MzAwOTAyNA==&mid=2652136384&idx=1&sn=b2cb247474f23b23059aab532e3fb355&chksm=f29350afc5e4d9b9d27a9fdc18297514329793da62a0aabdb6b04ed288c095603d796a78c0e2#rd)
